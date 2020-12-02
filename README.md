@@ -1,0 +1,1 @@
+crud feito para fins de estudo da linguagem java, hibernate, jpa e mysql.
